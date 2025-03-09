@@ -1,0 +1,7 @@
+# Ignore compiled Python files  
+__pycache__/  
+*.pyc  
+*.pyo  
+
+# Ignore data folder (if it contains large files or private data)  
+data/  
